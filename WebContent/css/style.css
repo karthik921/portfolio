@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+{
+   outline: 1px solid red !important;
+}
+body{
+	display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+}
+#avatar{
+	width:200px;
+	height: 200px;
+}
+#about{
+	width: 1140px;
+	height: 350px;
+	background-image: url("http://www.planwallpaper.com/static/images/518164-backgrounds.jpg");
+	padding-top: 10%;
+}
+#myCarousel{
+	
+}
