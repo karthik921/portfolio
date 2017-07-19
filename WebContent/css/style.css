@@ -17,6 +17,32 @@ body{
 	background-image: url("http://www.planwallpaper.com/static/images/518164-backgrounds.jpg");
 	padding-top: 10%;
 }
-#myCarousel{
+header{
+	margin: 0 0 2em 0;
+	text-align: center;
+	color: #888;
+}
+#main{
+	height: 100%;
+}
+#enterpriseButton2, #personalButton2{
+ 	height: 50%;
+	width: 50%;
+	margin-top:25%;
+/*	margin-bottom: 50%; */
+	-webkit-transition: width 0.5s;
+    transition: width 0.5s;
+}
+#enterpriseButton2:hover{
+    width: 300px;
+}
+#personalButton2:hover {
+    width: 300px;
+}
+.technologies{
+	height: 10%;
+	width: 10%;
+}
+@media screen and (max-width: ){
 	
 }
